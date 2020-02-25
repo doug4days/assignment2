@@ -72,6 +72,17 @@ main{
     margin-right:auto;
 }
 
+ img:hover {
+    opacity: 1;
+    transform: scale(1.05);
+    
+}
+
+
+.newstyle {
+    font-size: 1em
+}
+
 
 
 
